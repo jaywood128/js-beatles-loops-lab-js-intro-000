@@ -5,4 +5,5 @@ function theBeatlesPlay(musicians, instruments) {
     arr.push(`${musicans[i]}`) + arr.push(`${instruments[i]}`)
 
     return arr
-} 
+}
+}
