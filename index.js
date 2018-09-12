@@ -12,8 +12,9 @@ function johnLennonFacts(array) {
   const facts = []
 
   let i = 0
-  while (i < length.facts, i++) {
+  while (i < length.facts) {
    facts.push(`${facts[i]}!!!`)
+   i++
 
   }
 
